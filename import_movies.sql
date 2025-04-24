@@ -1,4 +1,3 @@
--- Create the movies table
 CREATE TABLE IF NOT EXISTS movies (
     name VARCHAR(255),
     rating VARCHAR(10),
@@ -17,7 +16,6 @@ CREATE TABLE IF NOT EXISTS movies (
     runtime DECIMAL(5,1)
 );
 
--- Import the CSV data
 LOAD DATA INFILE 'movies_updated.csv'
 INTO TABLE movies
 FIELDS TERMINATED BY ','
