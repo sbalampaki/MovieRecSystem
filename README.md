@@ -22,10 +22,12 @@ CSS3 – styling​
 BootStrap – for design​
 Jinja2 – template engine for Python to integrate with Flask
 ​
+
 Dataset Information:
 The project uses The Movies Dataset contains a wide range of information about movies, such as details about the cast, crew, ratings, genres, release dates, and more. ​
 4000 rows​
 15 columns​
+
 https://www.kaggle.com/code/yousefsaeedian/movies-dataset-visualization/input​
 
 Running the application:
