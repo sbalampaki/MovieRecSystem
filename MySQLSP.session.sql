@@ -1,3 +1,0 @@
-select version();
-
-show databases;
